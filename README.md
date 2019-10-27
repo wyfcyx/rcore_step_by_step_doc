@@ -17,6 +17,8 @@
 
 在阅读文章以及复现的过程中了解 OS 。
 
+本项目默认在Ubuntu环境下进行开发，可以考虑使用虚拟机VirtualBox或者VMWare安装一台Ubuntu16.04虚拟机。
+
 为了方便起见，建议使用 [docker](http://www.runoob.com/docker/docker-tutorial.html) ，可以省去配置环境的功夫。
 
 在工作目录下创建 **Makefile** ：
